@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Navigation, Pagination, Scrollbar, A71y } from 'swiper/modules';
+import { Navigation, Pagination, Scrollbar, A11y } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 import 'swiper/css';
@@ -122,3 +122,4 @@ const Luckynumber = () => {
 };
 
 export default Luckynumber;
+
