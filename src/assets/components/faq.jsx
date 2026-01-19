@@ -103,7 +103,7 @@ To play, a player must make an account on A7 Satta or app and choose a market, t
 					Typical bet kinds include of:<br/>
 				
                 <b>Ank ( Single):</b> Bet on a single number between 0 and 9.  <br/>
-				<b>Jodi (Pair):</b> A pair is referred to as a gamble with two digits high or low (00-99), even used most for favorable payout.   <br>
+				<b>Jodi (Pair):</b> A pair is referred to as a gamble with two digits high or low (00-99), even used most for favorable payout.   <br/>
 				<b>Panna (Treble):</b> Bet on figures of 3 digit multiples.  <br/>
 				There are pay tables and side bets, however I am listing the most popular ones. Payouts may get as high as 90 to 960 times the bet, depending on the market and bet.
                 </div>
