@@ -1967,6 +1967,7 @@ section.faq-section span.sr {
     height: 32px;
     font-size: 14px;
     border: 1px solid #000;
+	min-width: 32px;
 }
 
 .newtable .table-bordered>tbody>tr>td, .newtable .table-bordered>tbody>tr>th, .newtable .table-bordered>thead>tr>td, .newtable .table-bordered>thead>tr>th {
@@ -2693,6 +2694,7 @@ div.Select_selectMainDiv__QD2cf {
 section.octoberresultchart h5 {
     margin: 0;
 }
+
 
 
 
