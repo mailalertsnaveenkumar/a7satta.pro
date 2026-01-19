@@ -13,7 +13,7 @@ const Header = () => {
             <ul>
                 <li>
                 <Link className="" to="/home">
-                    Homes
+                    Home
                 </Link>
                 </li>
                 <li>
@@ -65,6 +65,7 @@ const Header = () => {
 }
 
 export default Header
+
 
 
 
